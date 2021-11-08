@@ -4,7 +4,7 @@ import './App.css';
 function WriteLink(props) {
   return (
     <div className="WriteLink">
-      <li> <a href={"/tandon-syllabi" + props.location}> {props.name} </a> <span class="material-icons">link</span> </li>
+      <li> <a href={"tandon-syllabi" + props.location}> {props.name} </a> <span class="material-icons">link</span> </li>
     </div>
   );
 }
