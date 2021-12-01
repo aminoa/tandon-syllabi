@@ -15,10 +15,10 @@ h1, h2, h3 {
     margin-top: 4%
 }
 
-#courses {
+#subtitle {
     margin-top: 2%;
     font-weight: bold;
-    color: grey
+    color: cornflowerblue
 }
 
 ul { /* Entire list */
@@ -48,4 +48,8 @@ a:hover {
 span {
     position:relative;
     top: 6px;
+}
+
+.upload {
+    margin-top: 1%;    
 }
