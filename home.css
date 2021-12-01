@@ -26,12 +26,12 @@ ul { /* Entire list */
     padding: 0;
     position: relative;
     left: 0%;
-    margin-top: 1%;
+    /* margin-top: 1%; */
     font-size: 20px;
 }
 
 li { /* Individual items */
-    margin-bottom: 1.5%;
+    /* margin-bottom: 1.5%; */
 }
 
 a:link, a:visited {
